@@ -1,0 +1,13 @@
+# Ignore Docker Compose override files
+docker-compose.override.yml
+
+# Ignore environment variables file
+.env
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore system files
+Thumbs.db
+*.swp
